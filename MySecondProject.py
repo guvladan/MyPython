@@ -1,0 +1,8 @@
+name_1 = input ("Whats your name : ")
+print("Hallo " + name_1)
+name_2 = input ("How old are you : ")
+print("You are " + name_2 + " years old")
+name_3 = input ("How are you : ")
+print("You are "  + name_3)
+name_4 = input ("what are you doing: ")
+print("You are " + name_4)
